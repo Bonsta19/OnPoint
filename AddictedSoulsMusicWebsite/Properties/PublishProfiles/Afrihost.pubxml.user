@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Site Deployments OnPoint\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddictedSoulsMusicWebsite.csproj">
+      <publishTime>01/24/2016 16:08:44</publishTime>
+    </File>
+    <File Include="AddictedSoulsMusicWebsite.csproj.user">
+      <publishTime>01/24/2016 16:08:44</publishTime>
+    </File>
+    <File Include="bin/AddictedSoulsMusicWebsite.dll">
+      <publishTime>02/24/2016 04:39:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2015 06:43:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Content/submit.css">
+      <publishTime>02/14/2016 11:09:19</publishTime>
+    </File>
+    <File Include="css/animate.min.css">
+      <publishTime>12/13/2015 07:47:29</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>02/23/2016 20:24:14</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>02/23/2016 20:57:53</publishTime>
+    </File>
+    <File Include="css/creative.css">
+      <publishTime>02/23/2016 20:35:19</publishTime>
+    </File>
+    <File Include="css/submit.css">
+      <publishTime>02/14/2016 11:09:13</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>12/13/2015 07:39:46</publishTime>
+    </File>
+    <File Include="default.aspx.cs">
+      <publishTime>12/13/2015 07:39:21</publishTime>
+    </File>
+    <File Include="default.aspx.designer.cs">
+      <publishTime>12/13/2015 07:39:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="img/1.jpg">
+      <publishTime>02/23/2016 20:56:45</publishTime>
+    </File>
+    <File Include="img/2.jpg">
+      <publishTime>02/23/2016 20:56:45</publishTime>
+    </File>
+    <File Include="img/3.jpg">
+      <publishTime>02/23/2016 20:56:45</publishTime>
+    </File>
+    <File Include="img/4.jpg">
+      <publishTime>02/23/2016 20:56:45</publishTime>
+    </File>
+    <File Include="img/AddictedSoulsClothing1.png">
+      <publishTime>01/17/2016 01:38:36</publishTime>
+    </File>
+    <File Include="img/AddictedSoulsClothing2.jpg">
+      <publishTime>01/17/2016 01:38:36</publishTime>
+    </File>
+    <File Include="img/AddictedToGod1.png">
+      <publishTime>01/16/2016 23:58:20</publishTime>
+    </File>
+    <File Include="img/ASM.png">
+      <publishTime>01/01/2016 08:53:35</publishTime>
+    </File>
+    <File Include="img/Away.jpg">
+      <publishTime>01/11/2016 22:41:07</publishTime>
+    </File>
+    <File Include="img/Back to you.jpg">
+      <publishTime>01/11/2016 22:41:07</publishTime>
+    </File>
+    <File Include="img/camryn.jpg">
+      <publishTime>01/24/2016 16:07:18</publishTime>
+    </File>
+    <File Include="img/event1.jpg">
+      <publishTime>02/23/2016 20:46:49</publishTime>
+    </File>
+    <File Include="img/header.jpg">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="img/Jabu1.jpg">
+      <publishTime>01/24/2016 15:38:12</publishTime>
+    </File>
+    <File Include="img/Jabu2.jpg">
+      <publishTime>01/24/2016 15:38:12</publishTime>
+    </File>
+    <File Include="img/LogoTrans.png">
+      <publishTime>01/09/2016 07:13:13</publishTime>
+    </File>
+    <File Include="img/mainheader.jpg">
+      <publishTime>01/09/2016 06:05:09</publishTime>
+    </File>
+    <File Include="img/mainintrofinal.jpg">
+      <publishTime>01/09/2016 06:58:01</publishTime>
+    </File>
+    <File Include="img/mainpicsmaller.jpg">
+      <publishTime>01/09/2016 06:13:52</publishTime>
+    </File>
+    <File Include="img/Mix2.png">
+      <publishTime>01/16/2016 23:13:32</publishTime>
+    </File>
+    <File Include="img/OnPoint.PNG">
+      <publishTime>02/11/2016 19:58:35</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGig7.jpg">
+      <publishTime>01/12/2016 20:24:29</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGig8.jpg">
+      <publishTime>01/12/2016 20:53:47</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGig9.jpg">
+      <publishTime>01/12/2016 20:59:55</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigFive.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigFour.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigOne.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigSix.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigThree.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/EmoyeniGigTwo.jpg">
+      <publishTime>01/11/2016 23:29:28</publishTime>
+    </File>
+    <File Include="img/portfolio/Equipment.jpg">
+      <publishTime>01/12/2016 20:29:24</publishTime>
+    </File>
+    <File Include="img/portfolio/Grand Central Cafe.jpg">
+      <publishTime>01/11/2016 23:38:03</publishTime>
+    </File>
+    <File Include="img/portfolio/Kpmg.jpg">
+      <publishTime>01/11/2016 23:34:59</publishTime>
+    </File>
+    <File Include="img/promo2.jpg">
+      <publishTime>02/23/2016 20:46:49</publishTime>
+    </File>
+    <File Include="img/promoEvent.jpg">
+      <publishTime>02/11/2016 20:26:59</publishTime>
+    </File>
+    <File Include="img/SpreadLove1.png">
+      <publishTime>01/16/2016 23:58:20</publishTime>
+    </File>
+    <File Include="img/vinyl.ico">
+      <publishTime>01/22/2016 11:56:40</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>02/23/2016 21:16:39</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/cbpAnimatedHeader.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/classie.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/creative.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/custom.js">
+      <publishTime>01/24/2016 15:19:06</publishTime>
+    </File>
+    <File Include="js/jquery.easing.min.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/jquery.fittext.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="js/wow.min.js">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="LICENSE">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="OnPointPromotionWebsite.csproj">
+      <publishTime>02/23/2016 20:57:53</publishTime>
+    </File>
+    <File Include="OnPointPromotionWebsite.csproj.user">
+      <publishTime>02/23/2016 20:57:53</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/18/2016 14:22:52</publishTime>
+    </File>
+    <File Include="Properties/AssemblyInfo.cs">
+      <publishTime>12/13/2015 06:43:04</publishTime>
+    </File>
+    <File Include="Properties/PublishProfiles/Afrihost.pubxml">
+      <publishTime>02/11/2016 20:35:40</publishTime>
+    </File>
+    <File Include="README.md">
+      <publishTime>12/13/2015 07:47:39</publishTime>
+    </File>
+    <File Include="roslyn/csc.exe">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/13/2015 06:43:18</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/vbc.exe">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/VBCSCompiler.exe">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/13/2015 06:43:19</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/13/2015 07:10:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.intellisense.js">
+      <publishTime>12/13/2015 07:10:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>12/13/2015 07:10:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>12/13/2015 07:10:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>12/13/2015 07:10:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/11/2016 20:35:46</publishTime>
+    </File>
+    <File Include="Web.Debug.config">
+      <publishTime>12/13/2015 06:43:11</publishTime>
+    </File>
+    <File Include="Web.Release.config">
+      <publishTime>12/13/2015 06:43:12</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/19/2016 19:27:12</publishTime>
+    </File>
+    <File Include="WebForm1.aspx.cs">
+      <publishTime>01/19/2016 19:27:13</publishTime>
+    </File>
+    <File Include="WebForm1.aspx.designer.cs">
+      <publishTime>01/19/2016 19:27:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
